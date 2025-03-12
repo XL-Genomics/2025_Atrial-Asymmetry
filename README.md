@@ -5,7 +5,7 @@ The left (LA) and right atria (RA) differ in physiology and molecular compositio
 Raw sequencing data generated in this study have been deposited in the National Institutes of Health Gene Expression Omnibus (GEO). Mouse snRNA-seq data (Male RA: GSM8147806, Female RA: GSM8147807, Male LA: GSM8147810, Female LA: GSM8147811) and spatial transcriptomics data (GSM8147805) are available under SuperSeries GSE261643. 
 
 ### Methods
-Detailed methods descriptoion can be found in Methods.doc file.
+Detailed methods descriptoion can be found in Methods.docx file.
 
 
 
